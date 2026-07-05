@@ -4,8 +4,7 @@ GitHub Account
 │   ├── app/            ← Folder
 │   ├── users/          ← Folder
 │   ├── manage.py       ← File
-│   └── README.md       ← File
-│
+│   └── ①②③④⑤⑥⑦⑧⑨⑩
 ├── next-frontend       ← Repository (Title)
 │   ├── lib/
 │   ├── assets/
